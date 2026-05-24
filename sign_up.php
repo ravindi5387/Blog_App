@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="plugin/bootstrap.min.css">
     <script src="plugin/jquery.min.js"></script>
     <script src="plugin/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/sign_up.css">
     
 </head>
 <body>
@@ -18,11 +18,11 @@
     <div class="row">
         <div class="col-md-12">
 
-            <div class="p-5 mb-4 bg-light rounded-3">
-                <div class="container-fluid py-5">
-                    <h1 class="display-5 fw-bold">Welcome</h1>
-                    <p class="fs-4">My blog application</p>
-                </div>
+            <div class="form-group">
+              <label for=""></label>
+              <input type="text" name="" id="" class="form-control" placeholder="" aria-describedby="helpId">
+              <small id="helpId" class="text-muted">Help text</small>
+            </div>
             </div>
 
         </div>
